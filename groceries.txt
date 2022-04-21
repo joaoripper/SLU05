@@ -6,3 +6,6 @@ bread
 chicken breast
 12 eggs
 butter
+toilet paper
+soap
+bath gel
